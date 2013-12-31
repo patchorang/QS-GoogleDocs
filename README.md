@@ -7,4 +7,5 @@ To manually manage your form in iTunes, go to your phone, then Apps, then File S
 The format of the file should be as follows:
 
 name0 url0
-name1 url1
+
+With one entry per line.
